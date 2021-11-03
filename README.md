@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KarenGribbon
+- 👀 I’ve been using computers since I was a child, and love any nerdy passtime - coding, TTRPGs, fantasy books and games in general, and reading up on science.
+- 🌱 I’m currently learning Computer Programming at Algonquin College, and am looking forward to my Co-op experience. Been enjoying learning Java, SQL, and command line code.
+- 📫 If you're a student in one of my classes, feel free to reach out during lecture, use my school email, or one of the Discord servers - DMs are open.
